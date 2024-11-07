@@ -6,8 +6,6 @@ The example is based on how the player in "The Leyend of Zelda" videogames saga,
 
 For this, the example gives common class to the user, to use specific complex actions, like have a combat, gets, and use items, and solve puzzles without the necesity of interact directly with corresponding classes in the videogames saga of "The Leyend of Zelda".
 
-It saves resources from the RAM creating a enemyType class that saves all the common information that an specific enemy have, like the texture, the name and the max health that it can have.  And also creates an specific class to each enemy, to save specific information, like the position in the map.
-
 #### Documentation: 
 The documentation of the methods and classes created for the example is in the [Javadoc](https://github.com/BloodSlayer-404/Facade/tree/master/JavaDoc "Javadoc") folder. 
 
